@@ -3,5 +3,5 @@ export function App() {
     <div>
       <h1>Planner</h1>
     </div>
-  );
+  )
 }
